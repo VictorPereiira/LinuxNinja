@@ -35,15 +35,67 @@
 
 ### What its?
 
-1. Content here...
-
+1. 1. What is the difference between `hard link`and `soft link`.
 
 ### How to do
 
-1. How to...
+1. How to working with Redirection Operators.
+2. How to use Regex.
+3. How to Archive, Backup, Compress, Unpack, and Decompress Files.
+4. How to working with File and Directories manipulation.
+5. How to working with Hard Link and Soft Link. ( R: Remove files )
+6. How to working file permissions.
 
+- How to working with Redirection Operators
+    
+    ```
+    |   -> To Send output from one command to another command for processing.
+    >   -> To Create or To Append.
+    <   -> To direct the content of a file to a command.
+    ```
+    
+- How to Archive, Backup, Compress, Unpack, and Decompress Files.
+    
+    ```
+    sudo tar cvf <file_name> <path>   -> Create an tar file.
+    tar tf <file_name>.tar            -> View the tar file contents.
+    tar -xvfz <file_name>.tar         -> Extract the content.
+    ```
+    
+
+- How to working File and Directories manipulation.
+    
+    ```
+    touch <file_name>                        -> To Create a file.
+    rm <file_name>                           -> To remove a file.
+    cp <file_name> <copy_file>               -> To copy a file.
+    mv <file_name> <directory>/<file_name>   -> Move file.
+    
+    mkdir <directory_name>    -> To Create a directory.
+    rm -rf <directory_name>   -> To Remove a directory
+    ```
+    
+
+- How to working with Hard Link and Soft Link
+    
+    ```
+    ln <target_link> <link_name>      -> To Create a hard link.
+    ln -s <target_link> <link_name>   -> To create a soft link.  
+    ```
+    
+
+- How to working file permissions.
+    
+    ```
+    content here...
+    ```
+    
 
 ### Notes
+
+`top` and `htop` → Manage Procesess
+
+`ps` and `nice`
 
 
 ## How to contribute
