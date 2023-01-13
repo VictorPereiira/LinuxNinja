@@ -29,22 +29,44 @@
 
 ### Linux Study
 
+1. Take Notes.
 
+### StudyNinja Github Repository
+
+1. Take notes of Linux study.
+2. Create Linux Cheatsheet..
+3. Create exercises
 
 ## Content
 
 ### What its?
 
-1. 1. What is the difference between `hard link`and `soft link`.
+1. What is the difference between `hard link`and `soft link`.
 
 ### How to do
 
-1. How to working with Redirection Operators.
-2. How to use Regex.
-3. How to Archive, Backup, Compress, Unpack, and Decompress Files.
-4. How to working with File and Directories manipulation.
-5. How to working with Hard Link and Soft Link. ( R: Remove files )
-6. How to working file permissions.
+1. How to work with System Documentation.
+2. How to workwith Redirection Operators.
+3. How to use Regex.
+4. How to Archive, Backup, Compress, Unpack, and Decompress Files.
+5. How to work with File and Directories manipulation.
+6. How to work with Hard Link and Soft Link. ( R: Remove files )
+7. How to work File Permissions.
+8. How to work with Boot State.
+9. How to manage Processes.
+10. How to work with System Log Files.
+11. How to work with Shedule Tasks.
+12. How to create Scripting to Automate System Manitence Tasks.
+13. How to work with Provide Required Functionality and Security
+14. how to work with Resources and Processes.
+15. How to change kernel runtime attributes.
+
+- How to work with System Documentation.
+    
+    ```
+    Content here...
+    ```
+    
 
 - How to working with Redirection Operators
     
@@ -84,10 +106,47 @@
     ```
     
 
-- How to working file permissions.
+- How to working File Permissions.
     
     ```
     content here...
+    ```
+    
+
+- How to work with Boot State.
+    
+    ```
+    content Here...
+    ```
+    
+
+- How to work with Shedule Tasks.
+    
+    ```
+    crontab -l   -> View crontab Details.
+    crontab -e   -> Add new crontab.
+    ```
+    
+- How to create Scripting to Automate System Manitence Tasks.
+    
+    ```
+    content Here...
+    ```
+    
+- How to work with Provide Required Functionality and Security
+    
+    ```
+    apt
+    rpm
+    yum
+    dpkg
+    apitude
+    ```
+    
+- how to work with Resources and Processes.
+    
+    ```
+    ps
     ```
     
 
