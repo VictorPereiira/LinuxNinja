@@ -31,7 +31,7 @@
 
 1. Take Notes.
 
-### StudyNinja Github Repository
+### LinuxNinja Github Repository
 
 1. Take notes of Linux study.
 2. Create Linux Cheatsheet..
