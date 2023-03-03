@@ -91,7 +91,7 @@
     touch <file_name>                        -> To Create a file.
     rm <file_name>                           -> To remove a file.
     cp <file_name> <copy_file>               -> To copy a file.
-    mv <file_name> <directory>/<file_name>   -> Move file.
+    mv <file_name> <directory>/<file_name>   -> Move file or Rename file.
     
     mkdir <directory_name>    -> To Create a directory.
     rm -rf <directory_name>   -> To Remove a directory
